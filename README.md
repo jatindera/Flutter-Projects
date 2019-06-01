@@ -4,4 +4,4 @@
 
 1. Infinite List. This project contains the infinite list developed in flutter
 
-- [Lin to Original Tutorial:](https://www.androidauthority.com/flutter-ui-toolkit-895837/)
+- [Link to Original Tutorial:](https://www.androidauthority.com/flutter-ui-toolkit-895837/)
