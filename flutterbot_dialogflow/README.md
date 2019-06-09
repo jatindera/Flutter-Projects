@@ -1,7 +1,7 @@
 # Chatbot using Flutter and Dialogflow
 
 Please follow the instructions below. Here is project output.
-(<a href="/docs/chatbot.gif"></a>)
+![Alt Text](/docs/chatbot.gif)
 
 ## Getting Started
 
