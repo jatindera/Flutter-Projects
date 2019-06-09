@@ -16,9 +16,9 @@ Please follow the instructions below.
 
 6. Choose "DialogFlow Integrations" and select "JSON". Click Create.
 
-7. rename file as "credentials.json". The entry with same name is there in pubspec.yaml. If you choose some other name, make sure to change name in pubspec.yaml.
+7. Rename file as "credentials.json". The entry with same name is there in pubspec.yaml. If you choose some other name, make sure to change name in pubspec.yaml.
 
-8. create a folder named "config" in root of your flutter project. Paste "credential.json" in the config folder. To clarify, both lib and config folder should be at same level.
+8. Create a folder named "config" in root of your flutter project. Paste "credential.json" in the config folder. To clarify, both lib and config folder should be at same level.
 
 9. Open Android/app/build.gradle and make sure that min sdk is 21
 
