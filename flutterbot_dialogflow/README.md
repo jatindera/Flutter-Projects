@@ -11,7 +11,7 @@ Please follow the instructions below. Here is project output.
 
 3. In the top menu, you will see a drop down. Make sure your new project is selected. If you don't see your project, search it by typing initial letters of your project and you will get it.
 <br>
-<img src="https://github.com/jatindera/Flutter-Projects/blob/master/flutterbot_dialogflow/docs/1.png" width=400>
+<img src="https://github.com/jatindera/Flutter-Projects/blob/master/flutterbot_dialogflow/docs/1.png" width=60%>
 
 4. Click "Credentials" from left hand side menu bar.
 
