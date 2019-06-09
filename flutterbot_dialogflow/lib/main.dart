@@ -109,10 +109,10 @@ class _ChatMessagesState extends State<ChatMessages>
 
     _requestChatBot(value);
   }
-
+  var projectid = "flutter-dialogflow-sowrtc";
   _requestChatBot(String text) async {
     var dialogSessionId =
-        "projects/flutter-dialogflow-sowrtc/agent/sessions/flutter-dialogflow";
+        "projects/$projectid/agent/sessions/flutter-dialogflow";
     Map data = {
       "queryInput": {
         "text": {

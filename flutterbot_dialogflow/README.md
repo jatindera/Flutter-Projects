@@ -25,4 +25,9 @@ Please follow the instructions below. Here is project output.
 
 9. Open Android/app/build.gradle and make sure that min sdk is 21
 
+10. Most Important: Open file lib/main.dart. Go to line number 112, i.e. 
+var projectid = "flutter-dialogflow-sowrtc";
+
+In your case, you need to change this value. Open credentials.json and look for your project id.
+
 That is it. Run your flutter app and you are good to go. Thanks.
