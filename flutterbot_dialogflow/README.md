@@ -4,13 +4,22 @@ Please follow the instructions below.
 
 ## Getting Started
 
-1. Open [dialogflow.com](https://www.dialogflow.com) and create a project over there. You need to know about dialoglfow.com. To run program quickly, enable smalltalk on dialogflow.com. Later, you can program dialogflow the way you want. 
+1. Open [dialogflow.com](https://www.dialogflow.com) and create a new agent over there. You need to know about dialoglfow.com. To run program quickly, enable smalltalk on dialogflow.com. Later, you can program dialogflow the way you want. 
 
-A few resources to get you started if this is your first Flutter project:
+2. While creating agent on Dialogflow.com, it will ask you to either create a new Google project or choose the existing Google project. Create new project and open google cloud console. [Click here to go to Google cloud console](https://console.developers.google.com)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+3. In the top menu, you will see a drop down. Make sure your new project is selected. If you don't see your project, search it by typing initial letters of your project and you will get it.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. Click "Credentials" from left hand side menu bar.
+
+5. Click on "Create Credentials" button. Choose "Create Service Account Key"
+
+6. Choose "DialogFlow Integrations" and select "JSON". Click Create.
+
+7. rename file as "credentials.json". The entry with same name is there in pubspec.yaml. If you choose some other name, make sure to change name in pubspec.yaml.
+
+8. create a folder named "config" in root of your flutter project. Paste "credential.json" in the config folder. To clarify, both lib and config folder should be at same level.
+
+9. Open Android/app/build.gradle and make sure that min sdk is 21
+
+That is it. Run your flutter app and you are good to go. Thanks.
