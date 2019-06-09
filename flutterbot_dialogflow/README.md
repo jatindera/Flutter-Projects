@@ -1,6 +1,7 @@
 # Chatbot using Flutter and Dialogflow
 
-Please follow the instructions below.
+Please follow the instructions below. Here is project output.
+(/docs/chatbot.gif)
 
 ## Getting Started
 
