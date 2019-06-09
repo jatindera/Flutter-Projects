@@ -4,9 +4,9 @@ Please follow the instructions below.
 
 ## Getting Started
 
-1. Open [dialogflow.com](https://www.dialogflow.com) and create a new agent over there. You need to know about dialoglfow.com. To run program quickly, enable smalltalk on dialogflow.com. Later, you can program dialogflow the way you want. 
+1. Open [dialogflow.com](https://www.dialogflow.com) and create a new agent. I am assuming that you have some basic knowledge of dialoglfow.com. Please do google if you need. To run program quickly, enable smalltalk on dialogflow.com. Later, you can program dialogflow the way you want. 
 
-2. While creating agent on Dialogflow.com, it will ask you to either create a new Google project or choose the existing Google project. Create new project and open google cloud console. [Click here to go to Google cloud console](https://console.developers.google.com)
+2. While creating agent on Dialogflow.com, it will ask you to either create a new Google project or choose the existing Google project. Create new project and open google developer console. [Click here to go to Google developer console](https://console.developers.google.com)
 
 3. In the top menu, you will see a drop down. Make sure your new project is selected. If you don't see your project, search it by typing initial letters of your project and you will get it.
 
