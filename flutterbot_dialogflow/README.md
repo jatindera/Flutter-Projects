@@ -1,4 +1,4 @@
-# flutterbot_dialogflow
+# Chatbot using Flutter and Dialogflow
 
 A new Flutter project.
 
