@@ -4,7 +4,7 @@ Please follow the instructions below.
 
 ## Getting Started
 
-1. Open dialogflow.com and create a project over there. You need to know about dialoglfow.com. To run program quickly, enable smalltalk on dialogflow.com. Later, you can program dialogflow the way you want. 
+1. Open [dialogflow.com](dialogflow.com) and create a project over there. You need to know about dialoglfow.com. To run program quickly, enable smalltalk on dialogflow.com. Later, you can program dialogflow the way you want. 
 
 A few resources to get you started if this is your first Flutter project:
 
