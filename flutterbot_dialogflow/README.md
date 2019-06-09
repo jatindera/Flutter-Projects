@@ -1,7 +1,7 @@
 # Chatbot using Flutter and Dialogflow
 
 Please follow the instructions below. Here is project output.
-![Chat Bot](https://github.com/jatindera/Flutter-Projects/blob/master/flutterbot_dialogflow/docs/chatbot.gif | width=250)
+<img src="https://github.com/jatindera/Flutter-Projects/blob/master/flutterbot_dialogflow/docs/chatbot.gif" width=250>
 
 ## Getting Started
 
